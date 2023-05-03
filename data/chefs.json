@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Li Wei",
+      "years_of_experience": 12,
+      "likes": ["Szechuan cuisine", "Dim Sum"],
+      "picture": "https://i.ibb.co/Xj5g7Y4/chef-1.jpg"
+    },
+    {
+      "name": "Wang Ming",
+      "years_of_experience": 8,
+      "likes": ["Cantonese cuisine", "Dumplings"],
+      "picture": "https://i.ibb.co/jb0hLjh/chef-2.jpg"
+    },
+    {
+      "name": "Liu Fang",
+      "years_of_experience": 15,
+      "likes": ["Hunan cuisine", "Hot Pot"],
+      "picture": "https://i.ibb.co/wcqtdXZ/chef-3.jpg"
+    },
+    {
+      "name": "Chen Mei",
+      "years_of_experience": 5,
+      "likes": ["Shanghai cuisine", "Xiaolongbao"],
+      "picture": "https://i.ibb.co/CtyJyhq/chef-4.jpg"
+    },
+    {
+      "name": "Yang Lei",
+      "years_of_experience": 10,
+      "likes": ["Beijing cuisine", "Peking Duck"],
+      "picture": "https://i.ibb.co/mC8Mmd7/chef-5.jpg"
+    },
+    {
+      "name": "Zhang Hong",
+      "years_of_experience": 3,
+      "likes": ["Sichuan cuisine", "Kung Pao Chicken"],
+      "picture": "https://i.ibb.co/y6sZYmB/chef-6.jpg"
+    }
+  ]
+
