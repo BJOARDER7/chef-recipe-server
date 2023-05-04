@@ -1,39 +1,160 @@
 [
     {
-      "name": "Li Wei",
+      "id": 1,
+      "name": "Ling Zhang",
+      "picture": "https://i.ibb.co/Xj5g7Y4/chef-1.jpg",
       "years_of_experience": 12,
-      "likes": ["Szechuan cuisine", "Dim Sum"],
-      "picture": "https://i.ibb.co/Xj5g7Y4/chef-1.jpg"
+      "likes": ["Sichuan cuisine", "Dumplings"],
+      "short_bio": "Passionate chef specializing in Sichuan cuisine and dumplings.",
+      "ingredients": ["Sichuan peppercorns", "Soy sauce", "Black vinegar", "Shiitake mushrooms", "Ground pork"],
+      "cooking_method": "Stir-frying, boiling, steaming",
+      "ratings": 4.7,
+      "favorite_button": true,
+      "recipes": [
+        {
+          "name": "Mapo Tofu",
+          "picture": "https://i.ibb.co/dM1zRQj/duck-peeled.jpg"
+        },
+        {
+          "name": "Kung Pao Chicken",
+          "picture": "https://i.ibb.co/s182XtB/fried-fillet.jpg"
+        },
+        {
+          "name": "Hot Pot",
+          "picture": "https://i.ibb.co/5xPLgjp/gyoza.jpg"
+        }
+      ]
     },
     {
-      "name": "Wang Ming",
-      "years_of_experience": 8,
-      "likes": ["Cantonese cuisine", "Dumplings"],
-      "picture": "https://i.ibb.co/jb0hLjh/chef-2.jpg"
-    },
-    {
-      "name": "Liu Fang",
-      "years_of_experience": 15,
-      "likes": ["Hunan cuisine", "Hot Pot"],
-      "picture": "https://i.ibb.co/wcqtdXZ/chef-3.jpg"
-    },
-    {
-      "name": "Chen Mei",
-      "years_of_experience": 5,
-      "likes": ["Shanghai cuisine", "Xiaolongbao"],
-      "picture": "https://i.ibb.co/CtyJyhq/chef-4.jpg"
-    },
-    {
-      "name": "Yang Lei",
+      "id": 2,
+      "name": "Wei Chen",
+      "picture": "https://i.ibb.co/jb0hLjh/chef-2.jpg",
       "years_of_experience": 10,
-      "likes": ["Beijing cuisine", "Peking Duck"],
-      "picture": "https://i.ibb.co/mC8Mmd7/chef-5.jpg"
+      "likes": ["Cantonese cuisine", "Dim sum"],
+      "short_bio": "Experienced chef with expertise in Cantonese cuisine and dim sum.",
+      "ingredients": ["Oyster sauce", "Hoisin sauce", "Rice noodles", "Eggplant", "Shrimp"],
+      "cooking_method": "Stir-frying, braising, steaming",
+      "ratings": 4.9,
+      "favorite_button": true,
+      "recipes": [
+        {
+          "name": "Steamed Shrimp Dumplings",
+          "picture": "https://i.ibb.co/bXzVkNG/vegetables.jpg"
+        },
+        {
+          "name": "Char Siu Bao",
+          "picture": "https://i.ibb.co/Vw3bKdb/shrimp-roll.jpg"
+        },
+        {
+          "name": "Egg Custard Tarts",
+          "picture": "https://i.ibb.co/ZSJCb5K/spicy-beef.jpg"
+        }
+      ]
     },
     {
-      "name": "Zhang Hong",
-      "years_of_experience": 3,
-      "likes": ["Sichuan cuisine", "Kung Pao Chicken"],
-      "picture": "https://i.ibb.co/y6sZYmB/chef-6.jpg"
+      "id": 3,
+      "name": "Jing Liu",
+      "picture": "https://i.ibb.co/wcqtdXZ/chef-3.jpg",
+      "years_of_experience": 8,
+      "likes": ["Shanghai cuisine", "Soup dumplings"],
+      "short_bio": "Skilled chef specializing in Shanghai cuisine and soup dumplings.",
+      "ingredients": ["Ground pork", "Soy sauce", "Ginger", "Chinese mushrooms", "Bok choy"],
+      "cooking_method": "Steaming, simmering, pan-frying",
+      "ratings": 4.6,
+      "favorite_button": true,
+      "recipes": [
+        {
+          "name": "Xiaolongbao",
+          "picture": "https://i.ibb.co/s182XtB/fried-fillet.jpg"
+        },
+        {
+          "name": "Shanghai Fried Noodles",
+          "picture": "https://i.ibb.co/5xPLgjp/gyoza.jpg"
+        },
+        {
+          "name": "Braised Pork Belly",
+          "picture": "https://i.ibb.co/dM1zRQj/duck-peeled.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ming Li",
+      "picture": "https://i.ibb.co/CtyJyhq/chef-4.jpg",
+      "years_of_experience": 15,
+      "likes": ["Hunan cuisine", "Spicy food"],
+      "short_bio": "Passionate chef specializing in Hunan cuisine and spicy food.",
+      "ingredients": ["Doubanjiang", "Chili peppers", "Sichuan peppercorns", "Smoked tofu", "Eggplant"],
+      "cooking_method": "Stir-frying, boiling, roasting",
+      "ratings": 4.8,
+      "favorite_button": true,
+      "recipes": [
+        {
+          "name": "Salt and Pepper Shrimp",
+          "picture": "https://i.ibb.co/Vw3bKdb/shrimp-roll.jpg"
+        },
+        {
+          "name": "Steamed Fish with Soy Sauce",
+          "picture": "https://i.ibb.co/dM1zRQj/duck-peeled.jpg"
+        },
+        {
+          "name": "Cantonese-style Lobster",
+          "picture": "https://i.ibb.co/bXzVkNG/vegetables.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Xiao Wang",
+      "picture": "https://i.ibb.co/mC8Mmd7/chef-5.jpg",
+      "years_of_experience": 9,
+      "likes": ["Beijing cuisine", "Peking duck"],
+      "short_bio": "Experienced chef specializing in Beijing cuisine and Peking duck.",
+      "ingredients": ["Duck", "Hoisin sauce", "Scallions", "Pancakes", "Cucumber"],
+      "cooking_method": "Roasting, slicing, stir-frying",
+      "ratings": 4.7,
+      "favorite_button": true,
+      "recipes": [
+        {
+          "name": "Mapo Tofu",
+          "picture": "https://i.ibb.co/5xPLgjp/gyoza.jpg"
+        },
+        {
+          "name": "Sichuan-style Kung Pao Chicken",
+          "picture": "https://i.ibb.co/ZSJCb5K/spicy-beef.jpg"
+        },
+        {
+          "name": "Spicy Hot Pot",
+          "picture": "https://i.ibb.co/s182XtB/fried-fillet.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Yan Liu",
+      "picture": "https://i.ibb.co/y6sZYmB/chef-6.jpg",
+      "years_of_experience": 13,
+      "likes": ["Cantonese cuisine", "Seafood"],
+      "short_bio": "Passionate chef specializing in Cantonese cuisine and seafood.",
+      "ingredients": ["Crab", "Ginger", "Spring onions", "Soy sauce", "Oyster sauce"],
+      "cooking_method": "Stir-frying, steaming, deep-frying",
+      "ratings": 4.9,
+      "favorite_button": true,
+      "recipes": [
+        {
+          "name": "Jiaozi (Chinese Dumplings)",
+          "picture": "https://i.ibb.co/rk60qz1/noodles.jpg"
+        },
+        {
+          "name": "Shandong-style Braised Pork",
+          "picture": "https://i.ibb.co/ZSJCb5K/spicy-beef.jpg"
+        },
+        {
+          "name": "Spring Onion Pancakes",
+          "picture": "https://i.ibb.co/5xPLgjp/gyoza.jpg"
+        }
+      ]
     }
   ]
-
+    
+    
