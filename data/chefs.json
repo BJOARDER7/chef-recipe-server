@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Ling Zhang",
-      "picture": "https://i.ibb.co/Xj5g7Y4/chef-1.jpg",
+      "picture": "https://i.ibb.co/k8cYy8R/chef-1.jpg",
       "years_of_experience": 12,
       "likes": ["Sichuan cuisine", "Dumplings"],
       "short_bio": "Passionate chef specializing in Sichuan cuisine and dumplings.",
@@ -28,7 +28,7 @@
     {
       "id": 2,
       "name": "Wei Chen",
-      "picture": "https://i.ibb.co/jb0hLjh/chef-2.jpg",
+      "picture": "https://i.ibb.co/K20sy4D/chef-2.jpg",
       "years_of_experience": 10,
       "likes": ["Cantonese cuisine", "Dim sum"],
       "short_bio": "Experienced chef with expertise in Cantonese cuisine and dim sum.",

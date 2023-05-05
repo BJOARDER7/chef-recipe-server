@@ -15,6 +15,11 @@ app.get('/', (req, res) =>{
 app.get('/chefs', (req, res) =>{
     res.send(chefs);
 })
+app.get('/chefs/:id', (req, res) =>{
+    const id = req.params.id;
+    const selectedchef = chefs.find(n => n.id === id)
+    res.send(selectedchef);
+})
 
 app.listen(port, () => {
     console.log(`Server API is running on port: ${port}`)
